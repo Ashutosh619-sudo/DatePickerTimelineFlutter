@@ -35,7 +35,7 @@ class DateWidget extends StatelessWidget {
         width: width,
         margin: EdgeInsets.all(3.0),
         decoration: BoxDecoration(
-          borderRadius: BorderRadius.all(Radius.circular(8.0)),
+          borderRadius: BorderRadius.all(Radius.circular(15.0)),
           color: selectionColor,
         ),
         child: Padding(
